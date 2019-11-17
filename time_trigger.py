@@ -1,6 +1,6 @@
 import time
 
-print("Hello, from Python Script!")
+print("Hello MKV737, from Python Script!")
 
 #-----------------------------------------------------
 # Displays the current time 
